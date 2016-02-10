@@ -18,7 +18,7 @@ body.wpoa-lightbox-visible {overflow:hidden;}
 #wpoa_login_redirect_page {display:none;}
 #wpoa_logout_redirect_page {display:none;}
 
-#wpoa-settings-meta {float:right; text-align:right; color:#999; padding-top:9px;}
+#wpoa-settings-meta {float:right; text-align:right; color:#999;}
 #wpoa-settings-meta ul {display:inline; margin-left:0;}
 #wpoa-settings-meta li {display:inline; margin-left:0.5em;}
 
@@ -31,7 +31,7 @@ body.wpoa-lightbox-visible {overflow:hidden;}
 #wpoa-settings-col1 {width:68%; float:left;}
 #wpoa-settings-col2 {width:30%; float:right;}
 
-#wpoa-settings-header {margin-top:1em;}
+#wpoa-settings-header {margin-top:25px;}
 #wpoa-settings-header nav ul {display:inline; margin-left:0;}
 #wpoa-settings-header nav li {display:inline; margin-bottom:-1px;}
 #wpoa-settings-header nav li:after {content:' | ';}
